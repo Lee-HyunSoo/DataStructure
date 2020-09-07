@@ -1,6 +1,4 @@
-package Week_1;
-
-import Week_1.Date;
+package week_1;
 
 import java.io.File;
 import java.io.FileInputStream;
